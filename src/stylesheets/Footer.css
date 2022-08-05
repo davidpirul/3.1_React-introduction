@@ -1,0 +1,6 @@
+.footerPage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ccc;
+}
